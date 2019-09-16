@@ -1,1 +1,1 @@
-MiniLZO.dll = "https://github.com/iAmJoker94/test/blob/master/MiniLZO.dll?raw=true"
+MiniLZO.dll - https://github.com/iAmJoker94/test/blob/master/MiniLZO.dll?raw=true
